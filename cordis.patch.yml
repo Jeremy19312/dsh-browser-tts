@@ -1,0 +1,3 @@
+- insert:
+    - id: tts-plugin
+      name: '@local/tts-plugin'

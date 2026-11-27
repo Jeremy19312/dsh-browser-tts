@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "TTS voice",
+    "description": "Reads selected text aloud using the browser speech synthesis.",
+    "detail": "docs/DETAIL.md"
+  }
+}
